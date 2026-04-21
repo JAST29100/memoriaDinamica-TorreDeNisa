@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1776065989 source:c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\src\administracion.cpp
+	<iostream>
+	<iomanip>
+	"Administracion.h"
+
+1776065000 c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\include\administracion.h
+	<iostream>
+	<vector>
+	"Propietario.h"
+	"Propiedad.h"
+
+1776063357 c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\include\propietario.h
+	<iostream>
+	"Propiedad.h"
+
+1776064314 c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\include\propiedad.h
+	<iostream>
+	"CuartoUtil.h"
+
+1776061228 c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\include\cuartoutil.h
+	<string>
+
+1776061244 source:c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\src\cuartoutil.cpp
+	<iostream>
+	"CuartoUtil.h"
+
+1776064314 source:c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\src\propiedad.cpp
+	"Propiedad.h"
+
+1776063357 source:c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\src\propietario.cpp
+	<iostream>
+	"Propietario.h"
+
+1776065129 source:c:\users\jast2\desktop\20261\poo\clases\memoriadinamica\main.cpp
+	<iostream>
+	<limits>
+	"Administracion.h"
+
+1776690046 source:c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\main.cpp
+	<iostream>
+	<limits>
+	"Administracion.h"
+
+1776689749 c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\include\administracion.h
+	<iostream>
+	<vector>
+	"Propietario.h"
+	"Propiedad.h"
+
+1776063357 c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\include\propietario.h
+	<iostream>
+	"Propiedad.h"
+
+1776689806 c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\include\propiedad.h
+	<iostream>
+	"CuartoUtil.h"
+
+1776061228 c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\include\cuartoutil.h
+	<string>
+
+1776690175 source:c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\src\administracion.cpp
+	<iostream>
+	<iomanip>
+	"Administracion.h"
+
+1776061244 source:c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\src\cuartoutil.cpp
+	<iostream>
+	"CuartoUtil.h"
+
+1776064314 source:c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\src\propiedad.cpp
+	"Propiedad.h"
+
+1776063357 source:c:\users\jast2\desktop\2026-1\poo\clases\memoriadinamica\src\propietario.cpp
+	<iostream>
+	"Propietario.h"
+
